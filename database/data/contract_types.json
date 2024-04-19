@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "name": "Festanstellung",
+        "created_at": null,
+        "updated_at": null
+    },
+    { "id": "2", "name": "Temporär", "created_at": null, "updated_at": null },
+    { "id": "3", "name": "Freelance", "created_at": null, "updated_at": null },
+    {
+        "id": "4",
+        "name": "Nebenerwerb",
+        "created_at": null,
+        "updated_at": null
+    },
+    { "id": "5", "name": "Lehrstelle", "created_at": null, "updated_at": null },
+    { "id": "6", "name": "Praktikum", "created_at": null, "updated_at": null }
+]

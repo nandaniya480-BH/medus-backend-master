@@ -1,0 +1,16 @@
+[
+
+{"id":"1","name":"Spital","created_at":null,"updated_at":null},
+{"id":"2","name":"Pflegeheim","created_at":null,"updated_at":null},
+{"id":"3","name":"Zahn-und Arztpraxis","created_at":null,"updated_at":null},
+{"id":"4","name":"Spitex","created_at":null,"updated_at":null},
+{"id":"5","name":"Apotheke und Drogerie","created_at":null,"updated_at":null},
+{"id":"6","name":"Optikergeschäft","created_at":null,"updated_at":null},
+{"id":"7","name":"Rehabilitation","created_at":null,"updated_at":null},
+{"id":"8","name":"Ergo und Physiotherapiezentrum","created_at":null,"updated_at":null},
+{"id":"9","name":"Versicherungsbranche","created_at":null,"updated_at":null},
+{"id":"10","name":"Bildung","created_at":null,"updated_at":null},
+{"id":"11","name":"Fitness und Wellness","created_at":null,"updated_at":null},
+{"id":"12","name":"Industrie und Dienstleitungsanbieter","created_at":null,"updated_at":null}
+
+]

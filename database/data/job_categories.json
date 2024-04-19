@@ -1,0 +1,22 @@
+[
+
+{"id":"1","name":"Ärztliches Personal","created_at":null,"updated_at":null},
+{"id":"2","name":"Administration","created_at":null,"updated_at":null},
+{"id":"3","name":"Labor & Medizintechnik","created_at":null,"updated_at":null},
+{"id":"4","name":"Pharmazie","created_at":null,"updated_at":null},
+{"id":"5","name":"Augenoptik","created_at":null,"updated_at":null},
+{"id":"6","name":"Med. Praxisassistent\/in","created_at":null,"updated_at":null},
+{"id":"7","name":"Fachfrau\/mann Gesundheit","created_at":null,"updated_at":null},
+{"id":"8","name":"Dipl. Pflegepersonal","created_at":null,"updated_at":null},
+{"id":"9","name":"Ergo- und Physiotherapie","created_at":null,"updated_at":null},
+{"id":"10","name":"Sozial- und Heilpädagogik","created_at":null,"updated_at":null},
+{"id":"11","name":"Psychiatrie","created_at":null,"updated_at":null},
+{"id":"12","name":"Forschung","created_at":null,"updated_at":null},
+{"id":"13","name":"Fitness, Sport & Wellness","created_at":null,"updated_at":null},
+{"id":"14","name":"Ausbildung\/Praktika","created_at":null,"updated_at":null},
+{"id":"15","name":"Psychologie","created_at":null,"updated_at":null},
+{"id":"16","name":"Zahnmedizin","created_at":null,"updated_at":null},
+{"id":"17","name":"Tiermedizin","created_at":null,"updated_at":null},
+{"id":"18","name":"Temporär & Nebenerwerb","created_at":null,"updated_at":null}
+
+]

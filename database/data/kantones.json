@@ -1,0 +1,184 @@
+[
+    {
+        "id": "1",
+        "name": "Waadt",
+        "shortName": "VD",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "2",
+        "name": "Freiburg",
+        "shortName": "Freiburg",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "3",
+        "name": "Aargau",
+        "shortName": "AG",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "4",
+        "name": "Appenzell Ausserrhoden",
+        "shortName": "AR",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "5",
+        "name": "Bern",
+        "shortName": "BE",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "6",
+        "name": "Basel-Landschaft",
+        "shortName": "BL",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "7",
+        "name": "Basel-Stadt",
+        "shortName": "BS",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "8",
+        "name": "Zürich",
+        "shortName": "ZH",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "9",
+        "name": "Genf",
+        "shortName": "GE",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "10",
+        "name": "Graubünden",
+        "shortName": "GR",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "11",
+        "name": "Glarus",
+        "shortName": "GL",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "12",
+        "name": "Jura",
+        "shortName": "JU",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "13",
+        "name": "Luzern",
+        "shortName": "LU",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "14",
+        "name": "Neuenburg",
+        "shortName": "NE",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "15",
+        "name": "Nidwalden",
+        "shortName": "NW",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "16",
+        "name": "Obwalden",
+        "shortName": "OW",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "17",
+        "name": "St. Gallen",
+        "shortName": "SG",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "18",
+        "name": "Schaffhausen",
+        "shortName": "SH",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "19",
+        "name": "Solothurn",
+        "shortName": "SO",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "20",
+        "name": "Schwyz",
+        "shortName": "SZ",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "21",
+        "name": "Thurgau",
+        "shortName": "TG",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "22",
+        "name": "Tessin",
+        "shortName": "TI",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "23",
+        "name": "Uri",
+        "shortName": "UR",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "24",
+        "name": "Wallis",
+        "shortName": "VS",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "25",
+        "name": "Zug",
+        "shortName": "ZG",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "26",
+        "name": "Appenzell Innerrhoden",
+        "shortName": "AI",
+        "created_at": null,
+        "updated_at": null
+    }
+]
