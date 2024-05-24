@@ -98,11 +98,11 @@ class UserController extends Controller
                 return $this->respondWithError([], $createdUser);
             }
             $token = $createdUser->createToken('MedusAppToken')->accessToken;
-            // try {
-            //     \Mail::to($user->email)->send(new WelcomeEmail($createdUser));
-            // } catch (\Swift_TransportException $e) {
-            //     \Log::error('E-mail konnte nicht gesendet werden');
-            // }
+            try {
+                \Mail::to($user->email)->send(new WelcomeEmail($createdUser));
+            } catch (\Swift_TransportException $e) {
+                \Log::error('E-mail konnte nicht gesendet werden');
+            }
             return $this->respondWithSuccess([
                 'access_token' => $token,
                 'user' => $this->getUserData($user),
@@ -115,12 +115,12 @@ class UserController extends Controller
                 return $this->respondWithError([], $createdUser);
             }
             $token = $createdUser->createToken('MedusAppToken')->accessToken;
-            // try {
-            //     \Mail::to($user->email)->send(new WelcomeEmailCompany($createdUser));
-            // } catch (\Swift_TransportException $e) {
-            //     \Log::error('E-mail konnte nicht gesendet werden');
-            // }
-            // \Mail::to(env('MEDUS_SUPPORT_EMAIL'))->send(new NewCompany($createdUser));
+            try {
+                \Mail::to($user->email)->send(new WelcomeEmailCompany($createdUser));
+            } catch (\Swift_TransportException $e) {
+                \Log::error('E-mail konnte nicht gesendet werden');
+            }
+            \Mail::to(env('MEDUS_SUPPORT_EMAIL'))->send(new NewCompany($createdUser));
             return $this->respondWithSuccess([
                 'access_token' => $token,
                 'user' => $this->getUserData($user),
@@ -354,4 +354,6 @@ class UserController extends Controller
         }
         return $this->respondInvalidInputs("User not found");
     }
+
+    
 }
